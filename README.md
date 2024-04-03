@@ -39,5 +39,6 @@ pip install -r requirements.txt
 
 pytest tests/
 ```
+[Тестовое задание (автотестирование).pdf](https://github.com/Picnichek/tensor_tests/files/14851279/default.pdf)
 
 
